@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 ![image alt](https://github.com/Reetik-kumar22/emoji_app/blob/8349430f5c4b4e0871722b677ef739181cdd80fb/Screenshot%202025-12-07%20011250.png)
 ![image alt(https://github.com/Reetik-kumar22/emoji_app/blob/44a85deb9fe1e4f549b48d1b44889de09c35a3a2/Screenshot%202025-12-07%20011428.png)
 ![image alt](https://github.com/Reetik-kumar22/emoji_app/blob/add36342d5b336e68d7342b68443a78fe1467a41/Screenshot%202025-12-07%20011513.png)
+![image alt](https://github.com/Reetik-kumar22/emoji_app/blob/40770738c06d5d6b08895b923d144b225cb94634/Screenshot%202025-12-07%20011547.png)
